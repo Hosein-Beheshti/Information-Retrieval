@@ -1,5 +1,5 @@
 # Implementing an Information Retrieval Engine for IR Course 
-in this project we are going to implement an information retrieval engine with this steps.
+in this project we are going to implement an information retrieval engine with these steps:
 * tokenization with normalization
 * creating inverted index and posting lists
 * binary searching
